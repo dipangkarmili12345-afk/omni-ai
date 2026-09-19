@@ -1,0 +1,7 @@
+{
+  "name": "Omni AI",
+  "description": "All AI. One App. Multi-AI Chat (Gemini, ChatGPT, Claude, DeepSeek, Grok), Compare Mode, Voice Chat, Image Generator & Specialized AI Tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
